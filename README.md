@@ -3,12 +3,12 @@ Recently, [GitHub has opted to rename the “master” branch to
 that “master” is offensive to “some people”. The assumption is that the offense
 is the term “master”'s use in slavery, i.e., “slave-master”.
 
-The problem with this is that that's an extremely stupid, childish approach to
-language. The term “master” has hundreds of meanings, all of which relate to
-primacy, and only some of them to subordinance. Master's Degrees use the term,
-it's reasonable to call someone good at git a git master, and someone less
-accustomed to git might see these changes and complain “I haven't even mastered
-git and now I'm going to have to get accustomed to new terminology”.
+This is an extremely stupid, childish approach to language. The term “master”
+has hundreds of meanings, all of which relate to primacy, and only some of them
+to subordinance. Master's Degrees use the term, it's reasonable to call someone
+good at git a git master, and someone less accustomed to git might see these
+changes and complain “I haven't even mastered git and now I'm going to have to
+get used to new terminology”.
 
 The problem with this change, and with similar Orwellian approaches to
 “improving” language by banishing words that might cause offense, is that by
